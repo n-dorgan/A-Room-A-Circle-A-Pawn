@@ -1,0 +1,1 @@
+A pillar of smoke rose through [[The Plains]] to reveal the small blue dragon that slept curled up, hidden within the grass. This world once belonged to their kind, and once the players have made their final move, it shall be returned to them as well. For now, they lie dormant under the guardianship of [[The Protector]], who watches and preserves a sacred duty.

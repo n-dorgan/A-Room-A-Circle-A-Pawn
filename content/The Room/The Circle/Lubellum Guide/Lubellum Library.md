@@ -1,0 +1,1 @@
+A traditional public library, this space contains a modest collection of books, though nothing out of the ordinary caught your eye.

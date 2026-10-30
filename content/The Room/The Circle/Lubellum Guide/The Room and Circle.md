@@ -1,0 +1,5 @@
+Despite not being the central building of Lubellum, The Room and Circle certainly emanates the most presence. A relatively simple exterior, there are 2 points of entryway, one of which directs visitors to the Room (the Inn) and the other which directs visitors towards The Circle (the bar). Rather than individual rooms, these are simply areas, unseparated by a wall. A third door opened when Zephyr approached, for The Pawn, reveling the central open space dividing the two areas.
+
+[[Carter]] acts as both the innkeeper and bartender of the Room and Circle, running between the two tills when a guest prompts him on either side. [[Anthro]] was additionally seen habituating the bar side of the building, sitting alone until crowds apparated around him, creating a bustling environment far exceeding Lubellum's typical population count.
+
+A secret trapdoor was found hidden beneath a pile of boxes in the inn. When opened, an entryway to [[The Workshop]] was revealed below.

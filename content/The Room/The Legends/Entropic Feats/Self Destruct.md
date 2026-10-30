@@ -1,0 +1,1 @@
+self destruct (once per long rest, identify structural weakness for any person/building, dealing double damage if successful) - feat from anvil

@@ -1,0 +1,19 @@
+- **Current Occupants:** [[Mayor of Kingdom Town]], the mayor's partner
+- Glass house where the Mayor of Kingdom Town lives
+	- The house is a marker of status in Kingdom Town, but also a sign of trust
+	- The clear walls and overall open and transparent design is a bridge of respect between the mayor and his community
+	- Possession of the house rotates with the current mayor
+- Though the house is open, it is protected by a series of barriers, to ensure the family's safety, even with such little privacy
+	- An invisible barrier enveloped the entire structure
+		- Any objects attempting to pass through faced an elastic recoil effect
+		- Vibrating an object at the same frequency as the barrier created a resonance that collapsed the shield
+	- Passing through the entryway door triggered a fine, aromatic mist that sedated those in its presence
+- The party, while guests in Kingdom Town, successfully attempted to break into the house
+	- Inside, they saw a quaint living room, with various spaces for lounging, eating, and discussing business (the same as one would see from the outside)
+	- Man photos hung above the fireplace:
+		- A young boy
+		- 2 men together, seemingly the mayor and his partner
+		- A man and an older woman
+		- The same 2 men with a boy and a girl
+		- A dog, rolling in the grass
+	- Medical robes were seen protruding from one of the closets in the hallway

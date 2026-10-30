@@ -1,0 +1,1 @@
+Heard in the pitch black surrounding after transcending upwards into the silvery puddle dripping from the nadir of the [[Dwarven Kingdom|Dwarven Mountain]], the amorphous sound echoed along the sides of the cave, promising to meet again when the time is right.
