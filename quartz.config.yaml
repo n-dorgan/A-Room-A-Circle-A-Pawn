@@ -298,7 +298,6 @@ layout:
       exclude:
         - reader-mode
       positions:
-        right: []
     tag:
       exclude:
         - reader-mode
