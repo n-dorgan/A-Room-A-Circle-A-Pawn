@@ -5,7 +5,7 @@
 
 *The wills of fate have shrouded your memories since you emerged in this realm. Their pull continues to act on your recent journeys, offering only fragments of what transpired in the festival below. Those trials which you have not remembered, you have not completed.*
 
-The [[The pawns|party]], waking up from the night before, hear the clamoring of bells, shaken by movement in the ground below them. Looking up to the sky, a shining [[The Comet|Comet]] streaked above. Focused on the disrupting sight, the party missed the landscape of the Dwarven Kingdom shifting, walls collapsing and rising, hallways forming, and screams falling upon deaf ears as the Comet approaches. And yet, looking back down around them, they noticed people celebrating the occurrence, with fanfare already taking place by the inhabitants of the kingdom. This phenomenon is not a threat to their safety, but rather appears to be a boon to their livelihood, prompting immediate celebration across all people.
+The [[The Pawns|party]], waking up from the night before, hear the clamoring of bells, shaken by movement in the ground below them. Looking up to the sky, a shining [[The Comet|Comet]] streaked above. Focused on the disrupting sight, the party missed the landscape of the Dwarven Kingdom shifting, walls collapsing and rising, hallways forming, and screams falling upon deaf ears as the Comet approaches. And yet, looking back down around them, they noticed people celebrating the occurrence, with fanfare already taking place by the inhabitants of the kingdom. This phenomenon is not a threat to their safety, but rather appears to be a boon to their livelihood, prompting immediate celebration across all people.
 
 Each member stranded in a different segment of the festival, [[Inbad]] is the first to come to focus, with the bursting of laughs and cheers around him calling him to recall his [[The Kingdom|home]].
 
@@ -68,7 +68,7 @@ The festival represents the change that the Comet brings. The linear flow of tim
 > 
 > ![[Page 12]]
 > 
-> Caught in the text, he notices a flicker of light appear next to him, possibly a lone ender caught astray. Setting his book down, he turns to face an odd figure next to him. There sits a young man, mouth tilted upwards and eyes shining with wonder.
+> Caught in the text, he notices a flicker of light appear next to him, possibly a lone ember caught astray. Setting his book down, he turns to face an odd figure next to him. There sits a young man, mouth tilted upwards and eyes shining with wonder.
 > 
 > *A blink.*
 > 
@@ -126,7 +126,7 @@ The festival represents the change that the Comet brings. The linear flow of tim
 > 
 > Without having any other clues, the party follows the cryptic guidance that was given. Returning to the forest, they carefully step, avoiding each twig and dry leaf, careful not to disturb the natural peace. From their stealth, they were rewarded, coming into a small clearing with a lit candle sitting in the center. Zephyr approaches the candle and snuffs it out with a blow.
 > 
-> Instantly, the sky turned dark, the sun disappeared, and [[The Shadows]] from the trees elongated in the night. A figure emerges, darker than the night, and faces the party to fight. In the midst of exchanging blows, Zephyr manages to reignite the candle, weakening the shadow and imminently restoring the day to its proper form. With one more strike in the shadow's back from Inbad, it dissolves into the sun.
+> Instantly, the sky turned dark, the sun disappeared, and [[The Shadows]] from the trees elongated in the night. A [[Shadow Creature|figure]] emerges, darker than the night, and faces the party to fight. In the midst of exchanging blows, Zephyr manages to reignite the candle, weakening the shadow and imminently restoring the day to its proper form. With one more strike in the shadow's back from Inbad, it dissolves into the sun.
 > 
 > The Trial of Sight was completed by revealing the forest's true form, though this could have just as well been satisfied by not extinguishing the candle in the first place. Bear in mind that the candle must remain lit for the trial to hold true...
 > 

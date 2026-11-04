@@ -1,8 +1,33 @@
 
+## Basic Info
+#### Name
+Inbad
+#### Class
+Rogue
+#### Level
+2
+#### Background
+Noble
+#### Player Name
+Hiro Niu
+#### Species
+Eladrin (Variant)
+#### Alignment
+Lawful Evil
 
-![[Inbad Sheet#Character Backstory]]
+## Allies & Organizations
+#### Allies
+- **Patron:** Unknown
+- **Lover:** Unknown
 
-![[Inbad Sheet#Allies & Organizations]]
+#### Organizations
+- [[The Pawns]]
+- [[The Kingdom]]
+
+## Character Backstory
+- **Former Status:** Noble
+- **Past Life:** Forced to flee from his kingdom after holding one too many secrets
+- **Goal:** Stay out of reach of enforcement
 
 > [!question]+ **Inbad's Arrival**
 > Your character, Inbad, is a lawful evil rogue; they are a former noble, forced to leave their kingdom due to a series of events that led them incapable of remaining there any longer. Your family is not aware of the reason of your disappearance, you simply left one night and have been on the run ever since. As you get further and further from [[The Kingdom|your kingdom]], you start to remember less and less about it. You can't even remember it's name anymore, and as you were forced to change your name when you left, you can't even remember your own real name anymore - not like it matters, since you wouldn't want to use it anyways. 
@@ -11,3 +36,17 @@
 > 
 > You arrive in the current town being forced to leave the last one you entered. Your memory seems empty when you try to look at it, and the place you are in seems almost foreign to that of the one before. You simply want to stay ahead of the game and regain your life, but for now, all you need is a place to stay.
 
+## Additional Features and Traits
+- **[[Secret Keeper]]** *(Arrival)*: ...
+- **[[Force of Will#Taste of Will|Taste of Will]]**
+- **[[Quick Change]]**
+- **[[Force of Will#Moment of Will|Moment of Will]]**
+- **[[Designated Driver]]**
+
+## Treasure
+- [[Black Onyx|Onyx Gem]]
+- [[Signet Ring]]
+- [[Crimson Cloak]]
+- [[Golden Ship]]
+- [[Golden Map]]
+- [[Dwarven Dagger]]

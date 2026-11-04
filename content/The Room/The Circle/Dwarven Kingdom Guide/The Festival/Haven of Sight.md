@@ -1,0 +1,1 @@
+An illustrious forest sprawls indefinitely, eventually reaching a small silvered waterfall alongside the edge of the kingdom's cliffside. In the center of this jungled terrain sits a lone candle, claiming dominion over the brilliant day and the shadowed night. To rest in this haven, one must have the sight the flame offers, and the swift to reach it.

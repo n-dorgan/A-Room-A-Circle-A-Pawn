@@ -1,0 +1,1 @@
+Raw strength rings through the sounds of hammers clanging on metals and coals crackling in the forges packed in the open-air workspace. A giant anvil sits in the center, lending its power to the craftsmen and apprentices working in its presence. This domain creates through might, building to protect, not destroy.

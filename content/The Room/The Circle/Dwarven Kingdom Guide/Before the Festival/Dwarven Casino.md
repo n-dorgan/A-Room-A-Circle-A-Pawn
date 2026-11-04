@@ -1,0 +1,5 @@
+Seemingly containing another realm, this one-night only casino marks the start of the Dwarven festival. All are invited to come and join in the festivities and gambling the night before the trials, before the kingdom's landscape is inevitably changed in the oncoming wake of the Comet.
+
+The casino offers many amenities, such as a free coat check, complementary refreshments, and an instantaneous outfit change for a small fee, so that all present can match the stakes offered. Chip exchange is performed with a fixed, algorithmic, quantum, stochastic model, where the gold exchange rate to hand-crafted wooden chips depends on math beyond understanding.
+
+Beyond typical games offered, regional exclusives include multi-wheel roulette, 84 + 16, 5-card poker, and more! Who knows when ~~the pawns will move here next~~ the cards will next fall for the festival to begin anew, so draw your hand and come on down to this once-in-a-lifetime experience.

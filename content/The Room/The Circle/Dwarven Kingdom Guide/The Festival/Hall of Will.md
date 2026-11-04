@@ -1,0 +1,1 @@
+A bustling tavern, more people than chairs, ale and conversations flow freely as everyone gets to know their fellow man. Climbing the maze of tables, games, and taps, all that is found is more people and more alcohol to enjoy the festival with. In this hall, one's will is not in their ability to refuse, but in their capacity to care.
