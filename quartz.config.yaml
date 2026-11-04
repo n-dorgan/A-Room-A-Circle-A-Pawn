@@ -297,7 +297,6 @@ layout:
     folder:
       exclude:
         - reader-mode
-      positions:
     tag:
       exclude:
         - reader-mode
