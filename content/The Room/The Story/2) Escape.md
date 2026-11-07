@@ -19,7 +19,6 @@ After watching Zephyr being unable to get any more information out of Anthro, [[
 In an instant, everyone within the "Circle" of the Room and Circle begin to feel a strong push as people seem to suddenly materialize, transforming the tavern from a tense scene to a classic, loud, and cheerful gathering. They could no longer make out Anthro in the crowd, but could still feel his eyes on them.
 
 # A Strange Room
-
 With no other options, they decide to descend into the chambers below from the trapdoor. While there, they find something completely displaced form the quaint town from before. They discover a [[The Workshop|workshop]]: a desk in one corner, messy stacks of paper all over, an alchemistic set-up with potions and supplies scattered about, and a central dome with a soft but bright glow shining through.
 
 Inbad, upon investigating the room further, realizes that it can't be possible for there to be a light when the path took them under the inn. Using his foundation of royal knowledge he once knew, he deduced they found themselves in a separate plane; perhaps a pocket dimension or a different aspect of being all together -- the exact location was unclear.
@@ -45,7 +44,9 @@ After telling them this, he adds that he knows of their [[The Kingdom|kingdom]],
 He then, in a trail of mist, disapparates through the domed ceiling above, leaving the party alone
 
 # A Strange Exit
-When they return to the outdoors, the sun is nearly set. They can start to see the black wisps materializing once more, signaling their impeding doom. In a last-ditch effort, the party makes their way to the [[Waypoint]], where they are encountered with the [[The Fortune Teller|fortune teller]] from the night before. She warns them about trust, about power, and about the self. But more urgently, she instructs that to get where they need to be, they must be completely clear in their thoughts, or their destination could be many moons away from where they need to be. You feel this isn't the last you will see of her.
+When they return to the outdoors, the sun is nearly set. They can start to see the black wisps materializing once more, signaling their impeding doom. They approach on this quiet town, submerging it in darkness, along with the party if they did not hurry.
+
+In a last-ditch effort, the party makes their way to the [[Waypoint]], where they are encountered with the [[The Fortune Teller|fortune teller]] from the night before. She warns them about trust, about power, and about the self. But more urgently, she instructs that to get where they need to be, they must be completely clear in their thoughts, or their destination could be many moons away from where they need to be. You feel this isn't the last you will see of her.
 
 They enter and see a dazzling cosmic world in front of them. They notice the red void, the large mountain, the bustling capital kingdom, and some quaint farming towns.
 
