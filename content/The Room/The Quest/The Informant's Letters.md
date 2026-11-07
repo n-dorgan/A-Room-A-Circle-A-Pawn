@@ -1,5 +1,5 @@
 
-# [[The Room/The Circle/Lubellum/index|Lubellum]]
+# Lubellum
 My dear [[Zephyr]],
 
 Your undying allegiance to me is perhaps your most valuable quality. I would be lying if I said that your service was near complete, but it may be comforting to you to think of it as being so. For your next assignment, I am sending you somewhere...different.
@@ -13,7 +13,7 @@ I look forward to hearing your report, my ever-dutiful pawn.
 Your Informant,
 [[The Informant]]
 
-# [[Realm of Knowledge]], [[The Room/The Circle/Town Kingdom/index|Town Kingdom]]
+# Realm of Knowledge, Kingdom Town
 To my pawn,
 
 It seems your journeys have taken you far. I heard your prayers in the midst of night, searching for the source with the answers to all your questions. Don't you remember that all calls for scholarly searches go through me?

@@ -9,6 +9,9 @@ title: The Quest
 >[!todo]+ Medicine for Grandma
 >The mage in [[The Room/The Circle/Kingdom Town/index|Kingdom Town]] has tasked you to deliver a vial of medicine to his grandmother living in [[The Room/The Circle/Town Kingdom/index|Town Kingdom]], an exchange created for the remedy to heal [[Æ|Æ's]] cosmic ailment
 
+> [!Todo]+ Crimson Dust
+> ![[The Informant's Letters#Realm of Knowledge, Kingdom Town]]
+
 >[!Todo]+ Upwards Down the Mountain
 >Completing the trials of the festival revealed a spiral staircase within the [[Fount of Life]]. Compelled to investigate, you descend the steps, deeper into its core, wondering what might await within.
 
@@ -28,7 +31,7 @@ title: The Quest
 # Completed Endeavors
 
 >[!success]- The First Journal
->![[The Informant's Letters#The Room/The Circle/Lubellum/index Lubellum]]
+>![[The Informant's Letters#Lubellum]]
 
 >[!success]- The Festival's Trials
 >Transformed by [[The Comet]], the grounds of [[The Room/The Circle/Town Kingdom/index|Town Kingdom]] transformed into a celebratory landscape, a festival to honor the foundation of this world. Each of the five trials can only be completed by embracing the aspect it embodies, fully living within the values it brings. Completion of all five trials, represented through the lighting of five torches in the [[Fount of Life]], revealed a hidden staircase leading into the mountain below.
