@@ -40,7 +40,7 @@ Suddenly, ☥ro pulled Jaime and the rest of the party, forcing them around the 
 
 He tells the party that when they inevitably reach a point of failure and of no return, once they reach that point where they have no more hope, only then should they call his name, beckoning for help. This offer rings in the back of the party's head. You will need his assistance at one point or another, but be warned the price you must pay. All you have to do is call his name.
 
-After telling them this, he adds that he knows of their kingdom, a place that each member of the party is slowly starting to forget (while some are only beginning to remember). It is unclear whether you can trust ☥ro's word that this far-displaced place is in danger, but you are left unsure whether it is safe either.
+After telling them this, he adds that he knows of their [[The Kingdom|kingdom]], a place that each member of the party is slowly starting to forget (while some are only beginning to remember). It is unclear whether you can trust ☥ro's word that this far-displaced place is in danger, but you are left unsure whether it is safe either.
 
 He then, in a trail of mist, disapparates through the domed ceiling above, leaving the party alone
 
