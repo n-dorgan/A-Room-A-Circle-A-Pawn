@@ -2,6 +2,7 @@ A half-finished -- or perhaps half-destroyed -- temple sits atop the east cliff 
 
 [[The Informant]] claims that this temple was once dedicated to him, implying that he is the Forgotten God from long ago. There is some truth in those words: the temple was clearly once a fount of vitality for Lubellum, now reduced to a memory soon to be forgotten along with its god. But what is a god? Who else might find Origins in Lubellum?
 
-> [!quote]+ Unknown
+> [!quote] Unknown
 *"Praise to the Keeper, may he be forgotten so that he might be remembered"*
+
 
