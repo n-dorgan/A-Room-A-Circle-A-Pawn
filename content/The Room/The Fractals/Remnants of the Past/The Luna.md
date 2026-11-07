@@ -1,0 +1,1 @@
+The ship carrying some of [[The Room/The Pawns/index|The Pawns]] to [[The Room/The Circle/Lubellum/index|Lubellum]], it left the docks before shadows were able to anchor it permanently. It is unclear where it sailed off to after its departure - and unknown who was left to captain it - but it brought you into this world, and may be the only known way out.

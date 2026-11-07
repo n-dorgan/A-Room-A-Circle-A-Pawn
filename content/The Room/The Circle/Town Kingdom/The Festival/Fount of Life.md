@@ -1,0 +1,1 @@
+A simple, yet elegant fountain sits in the midst of it all. Every domain, hall, haven, house, and realm is bridged by the silken sap coursing through the mountain. Perhaps a watershed used to reclaim its vitality, or perhaps the spring of origin itself, this fount reveals the life buried below and the origins of a people's rebirth.

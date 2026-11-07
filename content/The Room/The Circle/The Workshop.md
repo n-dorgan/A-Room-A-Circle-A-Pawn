@@ -1,0 +1,1 @@
+This pocket dimension was built as a place outside this world, only a part of the Circle by means of access to its room beyond. [[The Author]] claims to be its architect, constructing it for reasons unknown, echoes of its memory scattered across the land, waiting to be remembered.

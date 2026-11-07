@@ -1,0 +1,5 @@
+A cunning individual, he is the keeper of knowledge in his [[Realm of Knowledge|realm]]. Hidden behind the darkness of a mask of shadow, red mist trailing his coat, his appearance has previously followed that of the [[The Fortune Teller]], a dyad linked in time.
+
+He claims to have existed long before any other being that walks the land, inhabiting the [[Temple of the Forgotten God]] and frequenting [[The Workshop]]. His eyes watch everywhere, following his [[Zephyr|pawn]] from place to place, always needing a favor to forward his grand plan.
+
+Though he may appear as a trickster, hiding information only he knows, he has not yet lied to you, laying truth bare without remorse. This is someone who understands the power within sacred word, a power he wields with glamorous tongue and bound contract. Even if you [[The Room/The Pawns/index|yourselves]] do not know it yet, do NOT give him your NAME, for without it, you are nothing...

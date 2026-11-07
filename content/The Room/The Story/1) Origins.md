@@ -4,7 +4,7 @@
 ^241762
 
 # Genesis
-In separate paths, all rejected from their past lives, 4 adventurers arrived at the town of [[Lubellum]], each feeling a foreign presence in this place. Some of you came from sea on [[The Luna]], others by land. Regardless, you all made your way to the [[The Room and Circle|Room and Circle]], where you were met with cryptic greetings. [[Inbad]], [[Jaime|Jaime]], and [[Æ]] were all given the choice between the room and the circle, while [[Zephyr]] entered as the pawn. The innkeeper ([[Carter]]) offered a place to stay if you could handle his little "problem" he's been having. You also ran into a mysterious [[Anthro|bronze-haired man]], who you still know little about.
+In separate paths, all rejected from their past lives, 4 adventurers arrived at the town of [[The Room/The Circle/Lubellum/index|Lubellum]], each feeling a foreign presence in this place. Some of you came from sea on [[The Luna]], others by land. Regardless, you all made your way to the [[The Room and Circle|Room and Circle]], where you were met with cryptic greetings. [[Inbad]], [[Jaime|Jaime]], and [[Æ]] were all given the choice between the room and the circle, while [[Zephyr]] entered as the pawn. The innkeeper ([[Carter]]) offered a place to stay if you could handle his little "problem" he's been having. You also ran into a mysterious [[Anthro|bronze-haired man]], who you still know little about.
 
 As you stepped outside, you were faced with 2 [[Shadow Creature|shadow creatures]]. You slayed one of them, picking up the opaque [[Black Onyx|black onyx]] it dropped (with Jaime gaining possession of it), but the other only grew stronger as night fell. After a series of comical failures by Zephyr and Æ, you managed to defeat this creature, but destroying its own onyx in the process. You return to the inn, reaping your rewards and drinking to your hearts' desires. Jaime gained the [[Inspiration Sheep|inspiration sheep]] for his valor during combat.
 
@@ -20,7 +20,7 @@ The party recollected and entered the [[The Fortune Teller|Psychic's]] building,
 
 - Zephyr received [[The Key|the key card]], and was gifted...a [[Mysterious Key|key]]
 
-She then gave a reading for the party, revealing [[The Moon|the moon card]], and handing it to Zephyr. Zephyr also discreetly took an [[The Journal|inconspicuous journal]].
+She then gave a reading for the party, revealing [[The Moon|the moon card]], and handing it to Zephyr. Zephyr also discreetly took an [[The Room/The Journal/index|inconspicuous journal]].
 
 You were then all transported to the campfire in an instant, and (due to ridiculously high perception rolls), recognized that the fire is not fire, but a bright fog. You see the sky you were looking at is foreign to what you know. The star patterns are different. And most significantly, you notice that there is no moon in this sky, but the eternal, unforgiving emptiness of space.
 
@@ -29,4 +29,4 @@ You see a man in the distance, and follow him to the [[Temple of the Forgotten G
 
 Before the Informant can respond further, the moon card in Zephyr's hand is revealed, creating a rare look of genuine surprise across The Informant's covered face. Yet, the card appears to have no symbol on it anymore, and shoots towards the campfire. It lingers above the flame, and the party is forced to leave their host and retrieve it.
 
-Rescuing the card, its form is still blank. Then, as [[The Pawns|the party]] stares towards the sea, they see tendrils of black [[The Shadows|shadows]] come from the sea, surrounding the town and the party. The card burns in their hand, emanating a blinding light, forcing the campfire to raise higher. The card slowly burns, warding off the darkness, and once it is repelled, blinds the party and then transforms into "[[The Beginning]]." The sun rises on a new day, and the darkness recedes into the sea. If you spend one more night in this town, darkness will prevail, and you will not survive...
+Rescuing the card, its form is still blank. Then, as [[The Room/The Pawns/index|the party]] stares towards the sea, they see tendrils of black [[The Room/The Shadows/index|shadows]] come from the sea, surrounding the town and the party. The card burns in their hand, emanating a blinding light, forcing the campfire to raise higher. The card slowly burns, warding off the darkness, and once it is repelled, blinds the party and then transforms into "[[The Beginning]]." The sun rises on a new day, and the darkness recedes into the sea. If you spend one more night in this town, darkness will prevail, and you will not survive...

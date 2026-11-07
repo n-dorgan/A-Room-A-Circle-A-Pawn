@@ -1,0 +1,1 @@
+Found in the woods of the [[Haven of Sight]], this ashen trial tried to greet the party when she was nearly struck by their impulsive swing. [[The Lady of the Forest]] came to her rescue, moving her out of the way while barely dodging the blade herself. Her name was never asked, and so it was never given.

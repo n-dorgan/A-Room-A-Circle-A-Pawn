@@ -1,0 +1,3 @@
+Spawning from within the enormous statue in the [[House of Wisdom]] in [[The Room/The Circle/Town Kingdom/index|Town Kingdom]], this shadow posed a much greater threat than those they encountered previously. Trampling through the crowds, its step draining light from beneath, it traveled to the [[Haven of Sight]] to undo the party's successful completion of the trial.
+
+After its defeat, it did not dissipate like the [[Shadow Creature]] did. Rather, it seeped into the ground, escaping to the darkness below, where it is surely to be seen again.

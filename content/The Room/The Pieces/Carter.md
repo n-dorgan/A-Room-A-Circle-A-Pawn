@@ -1,0 +1,1 @@
+Innkeeper and bartender at the [[The Room and Circle]], he did his job well and honestly. Since it was such a small village, he could always use the help of travelling adventurers in clearing out stray shadows in exchange for a place to stay, and was always happy to have the company.

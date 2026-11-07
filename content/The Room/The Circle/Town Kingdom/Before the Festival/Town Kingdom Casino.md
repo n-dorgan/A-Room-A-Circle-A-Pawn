@@ -1,0 +1,5 @@
+Seemingly containing another realm, this one-night only casino marks the start of the grand Festival. All are invited to come and join in the festivities and gambling the night before the trials, for when dawn strikes, the kingdom's landscape shall be inevitably changed in the oncoming wake of the Comet.
+
+The casino offers many amenities, such as a free coat check, complementary refreshments, and an instantaneous outfit changes (for a small fee, of course), so that all present can match the stakes offered. A feat of engineering, crafted when the mountain was first lifted from the ground, chip exchange is performed with a fixed, algorithmic, quantum, stochastic model, where the gold exchange rate to hand-crafted metal chips depends on math beyond understanding.
+
+Beyond typical games offered, regional exclusives include multi-wheel roulette, 84 + 16, 5-card poker, and more! Who knows when ~~the pawns will move here next~~ the cards will next fall for the festival to begin anew, so draw your hand and come on down to this once-in-a-lifetime experience!

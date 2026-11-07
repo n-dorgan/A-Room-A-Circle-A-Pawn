@@ -1,0 +1,1 @@
+A merchant and craftsman located in the [[House of Wisdom]], he parted with his [[Golden Ship]] and [[Golden Map]], one his life's work and the other a family heirloom. Getting too old to travel, he tasked [[Inbad]] and [[Æ]] with fulfilling his dream and returning to him with stories, making them [[Karim's Promise|promise]] they would live their lives how he wished that he did.

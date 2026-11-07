@@ -1,0 +1,1 @@
+The guardian of the people stands as a beacon of stone, its presence emanating harmony among the chaos. Rows of merchants shout for their wares, exchanging their goods for stories, language transcended as all speak a universal tongue. All are welcomed to be a part of this house, where truth is measured by the wisdom within each person.

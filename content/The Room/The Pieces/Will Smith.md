@@ -1,0 +1,1 @@
+A smith who calls himself Will, he works as a member of the Smith Smith company, a world network of prominent Smiths in the smithing business. Their family's stalls can be found in most every town, no matter how big or small.

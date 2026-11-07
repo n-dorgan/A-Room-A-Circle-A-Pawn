@@ -1,0 +1,3 @@
+Originally encountered by the party in the [[Haven of Sight]], she kept watch over the flame, protecting [[Young Dryad|a yound dryad]] from the party's impulsive attack. Years of experience behind her, she lithely avoided any contact, with blade or otherwise, graceful movements you would not wish to see in a foe during battle.
+
+In conversation, she seemed to hint at a past connection with [[Inbad]]: a partnership where they had worked alongside each other in [[The Kingdom]] they once lived in; not necessarily a romantic relationship, her eyes revealed a deep trust that they used to share, a companionship developed only through the traumas of war.

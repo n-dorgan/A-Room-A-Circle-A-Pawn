@@ -1,0 +1,3 @@
+A well-loved and friendly gentleman, the current mayor of [[The Room/The Circle/Kingdom Town/index|Kingdom Town]] is a prominent alumni of [[Kingdom Town Medical School]]. He is always looking for new ways to serve his community, wishing to give back to the place that has already given him so much.
+
+He lives with his partner in the clear [[The Mayor of Kingdom Town's House|house]] that all mayors inhabit, which the party attempted to invade to search for signs of corruption - none were found.

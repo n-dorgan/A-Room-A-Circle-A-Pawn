@@ -1,0 +1,1 @@
+Items found on your journey are never as simple as they might appear. Know the power of what you wield, watch as these fractals continue to grow beyond.
