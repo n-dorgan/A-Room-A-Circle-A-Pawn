@@ -6,26 +6,26 @@ title: The Quest
 
 # Immediate Quests
 
->[!todo]+ Medicine for Grandma
+>[!todo]- Medicine for Grandma
 >The mage in [[The Room/The Circle/Kingdom Town/index|Kingdom Town]] has tasked you to deliver a vial of medicine to his grandmother living in [[The Room/The Circle/Town Kingdom/index|Town Kingdom]], an exchange created for the remedy to heal [[Æ|Æ's]] cosmic ailment
 
-> [!Todo]+ Crimson Dust
+> [!Todo]- Crimson Dust
 > ![[The Informant's Letters#Realm of Knowledge, Kingdom Town]]
 
->[!Todo]+ Upwards Down the Mountain
+>[!Todo]- Upwards Down the Mountain
 >Completing the trials of the festival revealed a spiral staircase within the [[Fount of Life]]. Compelled to investigate, you descend the steps, deeper into its core, wondering what might await within.
 
 # Future Promises
 
->[!Todo]+ A Golden Quest
+>[!Todo]- A Golden Quest
 >![[Karim's Promise]]
 
->[!warning]+ Finding the Six
+>[!warning]- Finding the Six
 >[[The Elder of the Forest]] has revealed to you that you are nothing more than [[The Room/The Pawns/index|pawns]] in a game. To make your next move, it is vital to discover who the Six [[The Room/The Players/index|Players]] are that hold their hands over your fate.
 
 # Eternal Bindings
 
->[!question]+ What is your name?
+>[!question]- What is your name?
 >A question that plagues your mind, following you on your travels, haunting your dreams, and being found at the core of every interaction. Perhaps the better question to ask first is "What is a name?"
 
 # Completed Endeavors

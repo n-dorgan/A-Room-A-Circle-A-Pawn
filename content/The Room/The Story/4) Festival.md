@@ -12,7 +12,7 @@ Each member stranded in a different segment of the festival, [[Inbad]] is the fi
 The festival represents the change that the Comet brings. The linear flow of time has no power over the landscape and the trials that the festival offers. One must understand the spatial separation of this world before all else:
 
 # The Trials
-> [!tip]+  [[Domain of Might]]
+> [!tip]-  [[Domain of Might]]
 > As Inbad gathers his bearings, [[Jaime]] hangs from the edge of a cliff, awoken by the sudden quake ousting him from his perched resting spot, and forcing him to fasten his grip against the jagged stone. In his late night wandering, he found himself drunkenly and aimlessly staggering; and yet, he awoke within his own sanctum, the manifestation of strength and force, and also of protection. His hands begin to slip, orientation lost as he is about to fall - up or down, bearings unknown, the final pieces of his mind to be lost with his memory.
 > 
 > In a moment of true strength, Jaime calls out, praying to the god of his family, of his [[The Kingdom|kingdom]]; he begs for mercy, for aid, for safety, to be honored for all the service he has given in their name. He surrenders control, admitting he cannot protect himself, but he would die today if it meant he could protect others. In this same moment, he hears the familiar voice of [[The Protector]] call out to him, reminding him of who he has become. He was knighted Jaime, Protector of House Lancaster. He has been here before, scaling the mountainsides of his home to ward against the incoming onslaught that was foretold to him. Today, he declares, is not the day he dies.
@@ -33,7 +33,7 @@ The festival represents the change that the Comet brings. The linear flow of tim
 > 
 > But the strike also imbued Inbad's dagger with the Blessing of the Forge. Just as he moves in and out of  [[The Room/The Shadows/index|The Shadows]] with his words, and just as Jaime's plan was nothing short of unexpected, his [[Dwarven Dagger#Phase Dagger|dagger]] now grants the ability to physically manifest these qualities. Jaime has also attained the feat [[Self Destruct]].
 
-> [!tip]+  [[Hall of Will]]
+> [!tip]-  [[Hall of Will]]
 > [[Æ]] awakes here, face sore and eyes heavy; the small community pub from last night has transformed into a complex spatial puzzle. The countertops expand vertically, creating a maze of taps, drinks, gaming tables, seats, and hundreds of individuals in attendance, of all species. Each step through the space leads you to yet another pint of ale, and yet another face to meet, forming the tavern of every adventurer's dream, and the core of celebration in this Festival.
 > 
 > ...
@@ -48,7 +48,7 @@ The festival represents the change that the Comet brings. The linear flow of tim
 > 
 > Jaime wanting to leave to escape further humiliation, Inbad dragging Æ out of the door, and Zephyr following them in amusement, the party left the tavern and made their way to the bustling flora next door.
 
-> [!tip]+ [[Realm of Knowledge]]
+> [!tip]- [[Realm of Knowledge]]
 > After falling asleep during his research, [[Zephyr]] wakes up with a book in his lap: "Pixie's Guide to Flies, Pies, and Dies: How to Kill Your Enemies with Cooking and Kindness." Opening the pages revealed not only [[The Comet]], seemingly transformed in his sleep, but also a strange [[The Informant's Letters#Dwarven Kingdom Library|letter]] sealed with crimson red wax and a distinct "I" seal. Hearing Jaime's cries for help, he packed the letter, shut the book, and rushed towards his aid, pulling him to the surface just in time.
 > 
 > ...
@@ -111,7 +111,7 @@ The festival represents the change that the Comet brings. The linear flow of tim
 > 
 > Opening his eyes, Zephyr finds himself back in the library, sitting in an identical set of chairs to those in the workshop, The Informant nowhere to be seen. A keen sense of satisfaction overcomes him, as he brings himself to his feet and leisurely walks to the next room over, hearing a loud explosion and a cry of commotion.
 
-> [!tip]+ [[Haven of Sight]]
+> [!tip]- [[Haven of Sight]]
 > 
 > Inbad awakes here, lying under covered shrubbery. The sun shines bright above his head and guides him towards the central Fount.
 > 
@@ -139,7 +139,7 @@ The festival represents the change that the Comet brings. The linear flow of tim
 > 
 > The Lady then disappears back into the forest, the Dryad skipping behind her, dancing as she melds with the trees and returns to the protection of nature. They leave without the party even asking their names. Yet seeing as the moment had passed, the pawns moved along their track back to celebrate the rest of the festival.
 
->[!failure]+ [[House of Wisdom]]
+>[!failure]- [[House of Wisdom]]
 >Æ and Inbad enter this house, faced with a giant statue towering in the center of the room, a suit of armor standing in place. Off to the side are 2 small tables, one square and the other circular, with a tent set up behind them. And around the perimeter of the room are endless stalls of merchants and craftsmen selling and sharing their wares alike. There are storefronts for armor and weaponry, rare minerals and precious gems, plants and medicinal cures, baked items and treats, ships and navigational maps, all connected in a continuous caravan looping around the room. The stores appear to constantly change, with one store shifting to the next in a matter of moments, each vying and cooperating for the prime spot in the market.
 >
 >Inbad first goes to the weaponry store, where he purchases a [[Dwarven Dagger#Poison Dagger|poison dagger]] to improve his odds of survival in the recent endless combats he has found himself in. He found the dagger lodged into the wall, intentionally hidden so that only those with a key eye could purchase the ware. When trying to scam this merchant, by stealing merchandise, giving less gold coins than needed, complaining how it was defective from being stuck in the wall, and everything else in the typical thieves' book, he found that his efforts were for naught. Though they did not explicitly backfire, the merchant was not really interested in his gold. Though he took some as a formality (and a necessary cost of the festival), he took his payment in the form of stories within Inbad's past, who shared his history as a noble, and the ranks he once carried. Reflecting on this past, and using his prior status to his advantage by effortlessly stepping back into the role he once played, Inbad gained the feat [[Quick Change]].
