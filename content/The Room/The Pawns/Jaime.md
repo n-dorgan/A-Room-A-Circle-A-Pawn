@@ -1,4 +1,9 @@
 
+## Character Backstory
+- **Former Status:** Knight
+- **Past Life:** Forced to leave his life after dwarves overthrew his town, has heavy hatred and resentment towards the people that took everything from him
+- **Goal:** Reclaim his honor
+
 ## Allies & Organizations
 #### Allies
 - **Patron:** [[The Protector]]
@@ -7,11 +12,6 @@
 - [[The Kingdom]]
 #### Card
 - [[The Knight]]
-
-## Character Backstory
-- **Former Status:** Knight
-- **Past Life:** Forced to leave his life after dwarves overthrew his town, has heavy hatred and resentment towards the people that took everything from him
-- **Goal:** Reclaim his honor
 
 > [!question]+ **Jaime's Arrival**
 > Your character, Jaime of House Lancaster, is a former knight of a kingdom. You remember your kingdom being destroyed by a dwarven army, and fighting back with your last breath. You refused to yield or surrender, maintaining your strong honor rather than back down in the middle of a fight; you were brought to your knees, when at the very last moment, you saw a hand reach down to you.

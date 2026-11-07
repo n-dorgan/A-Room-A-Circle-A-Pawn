@@ -1,0 +1,1 @@
+Spilt time upon the ground, what may be reclaimed through this keeper?
