@@ -11,13 +11,9 @@ As you stepped outside, you were faced with 2 [[Shadow Creature|shadow creatures
 You explore the rest of the town. Zephyr took towards the [[Lubellum Library|library]] and Æ tried to scam the smith. Meanwhile, Inbad and Jaime were having a beach off, with Jaime's honor being humiliated in the process.
 
 The party recollected and entered the [[The Fortune Teller|Psychic's]] building, being greeted by a strange old woman, with hag-like features, but just enough sophistication to create confusion. She riddled you with her words, giving a reading to each one of you.
-
 - Jaime received [[The Knight|the knight card]], and was gifted an [[Emblem with a Foreign Crest]] on it
-
 - Æ received [[The Fool|the fool card]], and was gifted a [[Strange Die|die]]
-
 - Inbad received [[The Rogue|the rogue card]], and was gifted a [[Crimson Cloak|thief's cloak]], a deep red, almost black in color
-
 - Zephyr received [[The Key|the key card]], and was gifted...a [[Mysterious Key|key]]
 
 She then gave a reading for the party, revealing [[The Moon|the moon card]], and handing it to Zephyr. Zephyr also discreetly took an [[The Room/The Journal/index|inconspicuous journal]].
