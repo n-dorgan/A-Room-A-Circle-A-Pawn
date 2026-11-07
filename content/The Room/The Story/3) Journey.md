@@ -1,6 +1,6 @@
 
 > [!abstract] Journey
-> The party takes leave from Kingdom town, making a brief stop at the Mayor's house, finding a lone dragon sitting in the plains they walk through. They encounter the Protector, scale the inverted dwarven kingdom's mountain, and enjoy the amenities that it offers, including the casino, where they encounter the Fortune Teller once more in a strange reading. They part ways for the night, each encountering a similar motif in their dreams: "What is your name?"
+> The party takes leave from Kingdom Town, making a brief stop at the Mayor's house, finding a lone dragon sitting in the plains they walk through. They encounter the Protector, scale the inverted dwarven kingdom's mountain, and enjoy the amenities that it offers, including the casino, where they encounter the Fortune Teller once more in a strange reading. They part ways for the night, each encountering a similar motif in their dreams: "What is your name?"
 ^c4af39
 
 # The Mayor's House
