@@ -10,7 +10,7 @@ title: The Quest
 >The mage in [[The Room/The Circle/Kingdom Town/index|Kingdom Town]] has tasked you to deliver a vial of medicine to his grandmother living in [[The Room/The Circle/Town Kingdom/index|Town Kingdom]], an exchange created for the remedy to heal [[Æ|Æ's]] cosmic ailment
 
 > [!Todo]- Crimson Dust
-> ![[The Informant's Letters#Realm of Knowledge, Kingdom Town]]
+> The Informant has tasked you to find a [[The Informant's Letters#Realm of Knowledge, Kingdom Town|red mineral]] that naturally forms in the core of this mountain. Be wary of false crystals that may tempt you in your search.
 
 >[!Todo]- Upwards Down the Mountain
 >Completing the trials of the festival revealed a spiral staircase within the [[Fount of Life]]. Compelled to investigate, you descend the steps, deeper into its core, wondering what might await within.
@@ -18,7 +18,7 @@ title: The Quest
 # Future Promises
 
 >[!Todo]- A Golden Quest
->![[Karim's Promise]]
+>Æ and Inbad, you have sworn yourself to keep [[Karim's Promise]] in exchange for an adventure of a lifetime. Karim awaits your return to hear stories of your travels and valor.
 
 >[!warning]- Finding the Six
 >[[The Elder of the Forest]] has revealed to you that you are nothing more than [[The Room/The Pawns/index|pawns]] in a game. To make your next move, it is vital to discover who the Six [[The Room/The Players/index|Players]] are that hold their hands over your fate.
@@ -26,9 +26,7 @@ title: The Quest
 # Eternal Bindings
 
 > [!note]- A Room, A Circle, A Pawn
-> The first page of the journal revealed an incomplete poem that guides your purpose. What more is left to be written?
-> 
-> ![[Page 1]]
+> The [[Page 1|first page]] of the journal revealed an incomplete poem that guides your purpose. What more is left to be written?
 
 >[!question]- What is your name?
 >A question that plagues your mind, following you on your travels, haunting your dreams, and being found at the core of every interaction. Perhaps the better question to ask first is "What is a name?"
@@ -36,7 +34,11 @@ title: The Quest
 # Completed Endeavors
 
 >[!success]- The First Journal
->![[The Informant's Letters#Lubellum]]
+>The Informant has tasked Zephyr to locate a [[The Informant's Letters#Lubellum|journal]] located in Lubellum. He offers immense reward should you succeed.
+>
+>Despite finding the journal, its pages appeared blank to the naked eye.
 
 >[!success]- The Festival's Trials
->Transformed by [[The Comet]], the grounds of [[The Room/The Circle/Town Kingdom/index|Town Kingdom]] transformed into a celebratory landscape, a festival to honor the foundation of this world. Each of the five trials can only be completed by embracing the aspect it embodies, fully living within the values it brings. Completion of all five trials, represented through the lighting of five torches in the [[Fount of Life]], revealed a hidden staircase leading into the mountain below.
+>In the presence of [[The Comet]], the grounds of [[The Room/The Circle/Town Kingdom/index|Town Kingdom]] transformed into a celebratory landscape, a festival to honor the foundation of this world. Each of the five trials can only be completed by embracing the aspect it embodies, fully living within the values it brings.
+>
+>Completion of all five trials, represented through the lighting of five torches in the [[Fount of Life]], revealed a hidden staircase leading into the mountain below.
