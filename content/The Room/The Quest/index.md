@@ -25,6 +25,11 @@ title: The Quest
 
 # Eternal Bindings
 
+> [!note]- A Room, A Circle, A Pawn
+> The first page of the journal revealed an incomplete poem that guides your purpose. What more is left to be written?
+> 
+> ![[Page 1]]
+
 >[!question]- What is your name?
 >A question that plagues your mind, following you on your travels, haunting your dreams, and being found at the core of every interaction. Perhaps the better question to ask first is "What is a name?"
 
